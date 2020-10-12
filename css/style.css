@@ -1,0 +1,37 @@
+body{
+	background: #f7fbf9;
+}
+
+
+h1{
+   color: #9487a2;
+   font-size: 60px;
+   text-align: center;
+   margin-top:0px;
+}
+
+div{
+	
+width: 1000px;
+margin-left: auto;
+margin-right: auto;
+background:#efefef ;
+padding: 50px;
+	
+}
+span{
+
+color: #aac36b;
+
+text-transform: capitalize;
+
+text-shadow: 6px 6px 10px #b8cc88bd;
+}
+img{
+	max-width: 100%;
+}
+p{
+font-size: 25px;
+color: #5b4b6d;
+line-height: 1.5;
+}
